@@ -12,6 +12,7 @@ function App() {
       </header>
       <footer>
         <p>nadge@patError</p>
+        <p>Add some more information about my cource and education</p>
       </footer>
     </>
   );
