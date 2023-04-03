@@ -10,6 +10,9 @@ function App() {
           <li><a>Services</a></li>
         </ul>
       </header>
+      <footer>
+        <p>nadge@patError</p>
+      </footer>
     </>
   );
 }
